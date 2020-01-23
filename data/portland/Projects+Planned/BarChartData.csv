@@ -9,7 +9,7 @@ travel_time,children and seniors,7529806.943141645,Benefits
 travel_time_reliability,children and seniors,-181708.38286170003,Benefits
 veh_operating_cost,children and seniors,0.0,Benefits
 veh_ownership_cost,children and seniors,3247274.202821869,Benefits
-active_transportation,everybody,-392014.342310873,Benefits
+active_transportation,everybody,159326.9,Benefits
 emissions_cost,everybody,485561.5290047526,Benefits
 noise_pollution_cost,everybody,83.57603346556425,Benefits
 safety_cost,everybody,-13015829.60328436,Benefits
@@ -59,7 +59,7 @@ travel_time,children and seniors,13.43945444337553,Benefits Per Household
 travel_time_reliability,children and seniors,-0.3243192756321001,Benefits Per Household
 veh_operating_cost,children and seniors,0.0,Benefits Per Household
 veh_ownership_cost,children and seniors,5.795844972323368,Benefits Per Household
-active_transportation,everybody,-0.37871236245121676,Benefits Per Household
+active_transportation,everybody,0.15392055899112747,Benefits Per Household
 emissions_cost,everybody,0.4690852704031653,Benefits Per Household
 noise_pollution_cost,everybody,8.074009968988806e-05,Benefits Per Household
 safety_cost,everybody,-12.574171519503572,Benefits Per Household
