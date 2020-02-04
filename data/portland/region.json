@@ -85,7 +85,7 @@
                 "GroupedCharts": [{"name":"Benefits","config":"Default", "file":"BarChartData.csv","info":"Monetized project benefits"}],
                 "BarMap": [{"name":"Travel Options Benefit","config":"Default", "file":"BarChartAndMapData.csv","info":"Travel options (accessibility) benefits"}],
                 "3DMap": [{"name":"3D Travel Options Benefit","config":"Default","file":"3DAnimatedMapData.csv","info":"Travel options (accessibility) benefits"}],
-                "Chord": [{"name":"Travel Time Savings","config":"Default", "file":"ChordData.csv","info":"Travel time savings by OD"}]
+                "Chord": [{"name":"Travel Time Savings","config":"District", "file":"ChordData.csv","info":"Travel time savings by OD"}]
             }
         },
         "Projects+Planned": {
@@ -96,7 +96,7 @@
                 "GroupedCharts": [{"name":"Benefits","config":"Default", "file":"BarChartData.csv","info":"Monetized project benefits"}],
                 "BarMap": [{"name":"Travel Options Benefit","config":"Default", "file":"BarChartAndMapData.csv","info":"Travel options (accessibility) benefits"}],
                 "3DMap": [{"name":"3D Travel Options Benefit","config":"Default","file":"3DAnimatedMapData.csv","info":"Travel options (accessibility) benefits"}],
-                "Chord": [{"name":"Travel Time Savings","config":"Default", "file":"ChordData.csv","info":"Travel time savings by OD"}]
+                "Chord": [{"name":"Travel Time Savings","config":"District", "file":"ChordData.csv","info":"Travel time savings by OD"}]
             }
         }
     },
@@ -156,6 +156,12 @@
     "Chord": {
         "Default": {
             "ZoneFile": "termini.json",
+            "LabelSize": "14",
+            "LegendRows": 4,
+            "LegendText": "Benefits"
+        },
+        "District": {
+            "ZoneFile": "districts.json",
             "LabelSize": "14",
             "LegendRows": 4,
             "LegendText": "Benefits"
