@@ -1,4 +1,4 @@
-FROM,TO,Travel Time Savings Positive,Travel Time Savings Negative
+FROM,TO,Positive Savings,Negative Savings
 CBD,CBD,151054.7993,0
 CBD,Clackamas.Co,188153.4821,0
 CBD,Clark.Co,749.2072906,0
