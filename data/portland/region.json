@@ -53,9 +53,9 @@
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
-        "Freight_Updated": {
-            "name": "Freight_Updated",
-            "title": "- Freight Flows Updated",
+        "Freight_Test1": {
+            "name": "Freight_Test1",
+            "title": "- Freight Flows Test1",
             "CenterMap": [45.512794,-122.679565],
             "visualizations": {
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
