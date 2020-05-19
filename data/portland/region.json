@@ -61,7 +61,7 @@
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
-        "Freight_Test1": {
+        "Freight_Test2": {
             "name": "Freight_Test2",
             "title": "- Freight Flows Test1",
             "CenterMap": [45.512794,-122.679565],
