@@ -63,7 +63,7 @@
         },
         "Freight_Test2": {
             "name": "Freight_Test2",
-            "title": "- Freight Flows Test1",
+            "title": "- Freight Flows Test2",
             "CenterMap": [45.512794,-122.679565],
             "visualizations": {
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
