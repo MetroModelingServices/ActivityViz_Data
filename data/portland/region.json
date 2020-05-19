@@ -61,6 +61,14 @@
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
+        "Freight_Test1": {
+            "name": "Freight_Test2",
+            "title": "- Freight Flows Test1",
+            "CenterMap": [45.512794,-122.679565],
+            "visualizations": {
+                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
+            }
+        },
         "Concept-B": {
             "name": "Concept-B",
             "title": "- Concept B",
