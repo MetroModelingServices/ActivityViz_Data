@@ -61,17 +61,17 @@
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
-        "Freight_Test2b": {
-            "name": "Freight_Test2b",
-            "title": "- Freight Flows Test2b",
+        "Freight_Test2a": {
+            "name": "Freight_Test2a",
+            "title": "- Freight Flows Test2a",
             "CenterMap": [45.512794,-122.679565],
             "visualizations": {
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
-        "Freight_Test2a": {
-            "name": "Freight_Test2a",
-            "title": "- Freight Flows Test2a",
+        "Freight_Test2b": {
+            "name": "Freight_Test2b",
+            "title": "- Freight Flows Test2b",
             "CenterMap": [45.512794,-122.679565],
             "visualizations": {
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
